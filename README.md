@@ -1,0 +1,1 @@
+# SECOORA assets map
