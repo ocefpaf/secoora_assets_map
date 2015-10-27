@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="337.98453"
+   height="472.91989"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="legend.svg"
+   inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:label="Darken edges"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Darken the edges with an inner blur"
+       color-interpolation-filters="sRGB"
+       id="filter5285">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="1.5"
+         id="feGaussianBlur5287" />
+      <feComposite
+         in2="result6"
+         operator="atop"
+         in="SourceGraphic"
+         result="result8"
+         id="feComposite5289" />
+      <feComposite
+         in="result8"
+         in2="SourceAlpha"
+         operator="atop"
+         result="result9"
+         id="feComposite5291" />
+    </filter>
+    <filter
+       inkscape:label="Darken edges"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Darken the edges with an inner blur"
+       color-interpolation-filters="sRGB"
+       id="filter5293">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="1.5"
+         id="feGaussianBlur5295" />
+      <feComposite
+         in2="result6"
+         operator="atop"
+         in="SourceGraphic"
+         result="result8"
+         id="feComposite5297" />
+      <feComposite
+         in="result8"
+         in2="SourceAlpha"
+         operator="atop"
+         result="result9"
+         id="feComposite5299" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80200525"
+     inkscape:cx="325.67043"
+     inkscape:cy="87.256825"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.376805,-140.51795)">
+    <text
+       xml:space="preserve"
+       style="font-size:36.26449585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="52.053123"
+       y="360.73035"
+       id="text2985-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3010"
+         x="52.053123"
+         y="360.73035">Asset Type</tspan></text>
+    <image
+       y="430.36218"
+       x="52"
+       id="image3505"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAABHNCSVQICAgIfAhkiAAAA+lJREFU SIm9ls9rI2UYxz+Jm62NJtLo1BY0gxgktLWBFNqEYPu24sWLiK54cMlBe4j4L3gU74LtwdPgpYec ihQ8GfAHi5WSsltiYmTTdNI2LbaztG7YxHY8zDttOpmkqQcfGAbe9/s83+fXPM94TNPk/5RbzgOP x+MKFEIsARnH8XIul/v0OpL2oDoIXQzbRjPpdPoKVtO0DPD57Ozsl16vd7EfRzoInYZtoz0CeM3r 9S520XkMNIEz+87bw9AVo61W61tN09qNcnR0tAnEuukAzwO32w/dCJdtw/ZbCPGLz+e76wSGQqGY EGK5HatpGoZh3AMmgGFgoF3H4+xSj8eDEMJ01qtf0TSNXC73NVABfgYKpmka9r1bDTk/P/9G07RF 57lL03ToHh8frwMGcACcAE/a710jBJ7CSserWLUYjMfjd4LB4JxNqmka9Xq9XigUvgfuS4IBrJo1 gBLwJ3BgmuZF07hGiNVVhlQ4AfwbGxubQogf20GFQuEPrE48AnQuO/KxdMCgrUN7ESKVDfm+LaN2 yoEkqgDbWOk7kzr2J3FFehGeYaWm0QNzAOxIsgqOaNyk3++wm9gO2ZFdK30TypF3RSYnJxf6du0m hEKIhYGBgSsjL51OMzo6GlNVdQqrO3uV52aEQCaZTHYcJpNJFEV5G3gBeAb3xroZoRBiSVXV91VV 7bhTVZXx8fHXp6amvgBexIrUfb/1QyiEeGtwcDAjhOiFYXh4+M1IJHIHCAG+/0wIZBKJxDUQSCQS DA0NfQi8DDxLj9R2JRRCLEUikXfD4fC1hOFwmFgsNhGPx+3UPk2X1LoSCiHu+v3+TCqVAqDRaJDP 5ztw+XyeRsOaC6lUipGRkfmxsbFP6JHaDkIhxBhwUTfDMMhmsxSLRZrNy0nVbDYpFotks1kMw7B1 CQaD74XD4TeAAC6pdYvws5mZmaSiKOi6Tjab1avVam5vb69aq9UuQLVajWq12iyXy3srKyunuq6j KApzc3OqoigfA6OA38nhRpiJRqNUKhXW1tbWd3Z2fiiXyw/q9fpPpVLpAlQqldjf3z+oVqvru7u7 362urv5eqVSIRqMEAoEFIAwMOVPbsQ/n5+eXgEyr1VrTdf237e3tBtacfDg9Pf2R3+9/B+Dw8LCy tbV1H2sX/hqJRNRQKPSB3+9PGYZxL5/PfwVsAlXTNE+7EsoFHABeAiJYbX4EPAQeYTXEBNZiBmvR PpCY54BXJOYUKAO6aZontv1u868lDZSx2vsEOMbab03gHLAL+hfWmvpbPg3psClttHqmtO0Xw4e1 eM+lUksaucXlrwTSgSfAP9I5n3y88q7V/ovxLy8SiFWWRBDGAAAAAElFTkSuQmCC "
+       height="28"
+       width="28"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       y="380.36218"
+       x="52"
+       id="image3567"
+       xlink:href="data:image/png;base64,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 "
+       height="28"
+       width="28"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       y="480.36218"
+       x="52"
+       id="image3629"
+       xlink:href="data:image/png;base64,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 +D87eQP+GJlGewAAAABJRU5ErkJggg== "
+       height="28"
+       width="28"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#6bce70;fill-opacity:1;stroke:#000000;stroke-width:0.92592591;stroke-miterlimit:2;stroke-opacity:0.27118644;stroke-dasharray:none"
+       id="rect4363"
+       width="24.074074"
+       height="24.074074"
+       x="52.462963"
+       y="187.82515"
+       ry="0"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fdf341;fill-opacity:1;stroke:#000000;stroke-width:0.92592591;stroke-miterlimit:2;stroke-opacity:0.27118644;stroke-dasharray:none"
+       id="rect4363-7"
+       width="24.074074"
+       height="24.074074"
+       x="52.462963"
+       y="237.82515"
+       ry="0"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#fc7b42;fill-opacity:1;stroke:#000000;stroke-width:0.92592591;stroke-miterlimit:2;stroke-opacity:0.27118644;stroke-dasharray:none"
+       id="rect4363-7-1"
+       width="24.074074"
+       height="24.074074"
+       x="52.462963"
+       y="287.82513"
+       ry="0"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:36.26449585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="52.053123"
+       y="171.91949"
+       id="text2985-4-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5231"
+         x="52.053123"
+         y="171.91949">Asset Status</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.195312"
+       y="603.7323"
+       id="text2985-4-5-1-8-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5385"
+         x="98.195312"
+         y="603.7323">Fixed Bottom Mount Mooring</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.195312"
+       y="558.09363"
+       id="text2985-4-5-1-8-1-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5447"
+         x="98.195312"
+         y="558.09363">Fixed Bottom Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.238281"
+       y="508.09363"
+       id="text2985-4-5-1-8-1-9-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5449"
+         x="98.238281"
+         y="508.09363">HFRadar Site</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.195312"
+       y="458.09363"
+       id="text2985-4-5-1-8-1-9-72"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5451"
+         x="98.195312"
+         y="458.09363">Fixed Coastal Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.195312"
+       y="403.7323"
+       id="text2985-4-5-1-8-1-9-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5453"
+         x="98.195312"
+         y="403.7323">Fixed Surface Buoy</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#9f9f9f;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-opacity:0.27118644;stroke-dasharray:none"
+       id="path5455"
+       sodipodi:cx="525"
+       sodipodi:cy="380.36218"
+       sodipodi:rx="13"
+       sodipodi:ry="13"
+       d="m 538,380.36218 c 0,7.1797 -5.8203,13 -13,13 -7.1797,0 -13,-5.8203 -13,-13 0,-7.1797 5.8203,-13 13,-13 7.1797,0 13,5.8203 13,13 z"
+       transform="translate(-459,164)"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#9f9f9f;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-opacity:0.27118644;stroke-dasharray:none"
+       id="path5457"
+       sodipodi:sides="3"
+       sodipodi:cx="554"
+       sodipodi:cy="439.36218"
+       sodipodi:r1="15.652476"
+       sodipodi:r2="7.8262377"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 567.55544,447.18842 -27.11088,0 L 554,423.70971 z"
+       inkscape:transform-center-y="-4.3238891"
+       transform="matrix(0.95693702,0,0,1.1049757,-464.14311,113.20155)"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.302734"
+       y="307.99011"
+       id="text2985-4-5-1-8-1-9-5-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5502"
+         x="98.302734"
+         y="307.99011">Proposed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.302734"
+       y="257.7323"
+       id="text2985-4-5-1-8-1-9-5-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5500"
+         x="98.302734"
+         y="257.7323">Permitting/Construction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="98.259766"
+       y="207.7323"
+       id="text2985-4-5-1-8-1-9-5-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/filipe/IOOS/GOM_assets_map/legend.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5498"
+         x="98.259766"
+         y="207.7323">Existing</tspan></text>
+  </g>
+</svg>
