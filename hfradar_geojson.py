@@ -123,3 +123,4 @@ if __name__ == '__main__':
     df = pd.read_excel(fname, index_col=3)
     geojson = df2features(df)
     save_json(geojson, fname='hfradar.geojson')
+    save_shapefile(geojson, fname='stations.shp')
