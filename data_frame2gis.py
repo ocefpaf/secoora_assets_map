@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+
+# conda execute
+# env:
+#  - fiona
+#  - matplotlib
+#  - geojson
+#  - pandas
+#  - xlrd
+# channels:
+#  - ioos
+# run_with: python
+
 """
 Create GeoJSON Features for SECOORA Assets.
 
@@ -5,10 +18,15 @@ To test the features copy-and-paste the GeoJSON file onto:
 
 http://geojson.io/
 
+Run with,
+$ conda execute -v data_frame2gis.py
+to ensure same results.
+
 """
 
 import json
 import fiona
+import pandas as pd
 from matplotlib.patches import Wedge
 from geojson import FeatureCollection, Feature, Polygon, Point
 
@@ -160,7 +178,6 @@ def save_shapefile(geojson, fname, geometry="Point"):
 
 if __name__ == "__main__":
     import os
-    import pandas as pd
 
     directory = "spreadsheets"
     save = "data"
