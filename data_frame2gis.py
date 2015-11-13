@@ -3,6 +3,7 @@
 # conda execute
 # env:
 #  - fiona
+#  - gdal <2.0.0
 #  - matplotlib
 #  - geojson
 #  - pandas
